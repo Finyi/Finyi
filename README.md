@@ -16,6 +16,6 @@
 
 # Own projects
 
-## AlphaMap
+### AlphaMap
 ![AlphaMap](https://cdn.discordapp.com/attachments/902207809385533481/1093313610031304724/Alphamap.png)
 

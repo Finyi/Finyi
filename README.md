@@ -14,4 +14,4 @@
 ![CSS](https://cdn.discordapp.com/attachments/902207809385533481/1093310015072391238/css.png)
 ![HTML5](https://cdn.discordapp.com/attachments/902207809385533481/1093310014548090930/html.png)
 
-### Own projects
+# Own projects

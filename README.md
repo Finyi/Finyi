@@ -4,8 +4,8 @@
 
 ### beginner programmer. I live in Ukraine, in the Dnepropetrovsk region, I am a simple coder in the field of web development and leaflet maps. I strive to learn other languages ​​to discover a lot of new things for myself.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finyi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finyi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finyi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finyi)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 

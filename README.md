@@ -19,3 +19,6 @@
 ### AlphaMap
 ![AlphaMap](https://cdn.discordapp.com/attachments/902207809385533481/1093313610031304724/Alphamap.png)
 
+# Self-development project to study lealet cards. The idea came to mind after the Russian invasion of Ukraine on February 24, 2022. The map was very strange from the very beginning, but added interest to further development, absolutely everything was reworked in it after its first appearance. The project was created for interests and friends, and I'm not going to compare it with other giant interactive maps, but in the future this experience in geography can help me do something more than just a map for friends.
+The map is publicly available on github, all lines of code and the rest are at your disposal.
+

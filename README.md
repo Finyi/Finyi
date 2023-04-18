@@ -10,9 +10,9 @@
 ### Languages
 
 ![JS](https://cdn.discordapp.com/attachments/902207809385533481/1097836413543796856/js.png)
-![Python](https://cdn.discordapp.com/attachments/902207809385533481/1093310014795558922/python.png)
-![CSS](https://cdn.discordapp.com/attachments/902207809385533481/1093310015072391238/css.png)
-![HTML5](https://cdn.discordapp.com/attachments/902207809385533481/1093310014548090930/html.png)
+![Python](https://cdn.discordapp.com/attachments/902207809385533481/1097837466368622602/py.png)
+![CSS](https://cdn.discordapp.com/attachments/902207809385533481/1097838068133806160/css.png)
+![HTML5](https://cdn.discordapp.com/attachments/902207809385533481/1097838522091716638/htmkl.png)
 
 # Own projects
 

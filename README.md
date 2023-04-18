@@ -1,4 +1,4 @@
-![Header](https://cdn.discordapp.com/attachments/902207809385533481/1093312279572914216/finy.png)
+![Header](https://cdn.discordapp.com/attachments/902207809385533481/1097835051057696808/finy2.png)
 
 # <b>About me</b>
 

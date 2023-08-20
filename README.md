@@ -1,4 +1,4 @@
-![Header](https://cdn.discordapp.com/attachments/902207809385533481/1097835051057696808/finy2.png)
+![Header](https://cdn.discordapp.com/attachments/902207809385533481/1142769490782863410/Finy-github.png)
 # <b>About me</b>
 
 ### beginner programmer. I live in Ukraine, in the Dnepropetrovsk region, I am a simple coder in the field of web development and leaflet maps. I strive to learn other languages ​​to discover a lot of new things for myself.

@@ -1,4 +1,4 @@
-![Header]([https://cdn.discordapp.com/attachments/902207809385533481/1142769490782863410/Finy-github.png](https://cdn.discordapp.com/attachments/902207809385533481/1160347072566927450/-1.png?ex=6534546c&is=6521df6c&hm=bac3295bd31cded480a1c16431b74384537d8a2413bd93f1418e7b9593631c08&))
+![Header](https://cdn.discordapp.com/attachments/902207809385533481/1160347072566927450/-1.png?ex=6534546c&is=6521df6c&hm=bac3295bd31cded480a1c16431b74384537d8a2413bd93f1418e7b9593631c08&)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finyi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finyi)](https://github.com/anuraghazra/github-readme-stats)

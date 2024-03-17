@@ -1,4 +1,4 @@
-![Header](https://cdn.discordapp.com/attachments/902207809385533481/1160349157597397032/-2.png?ex=6534565d&is=6521e15d&hm=8deb6556445f4191f329d95d909784218269369459e02222a4452572523a5f4b&)
+![Header](https://cdn.discordapp.com/attachments/902207809385533481/1219008254651138148/Finy_github_banner.png?ex=6609bce7&is=65f747e7&hm=80dd9a4eaa7a335f8c837db62afbb0a20b6d1f733cbaa39e5d48600ab052529a&)
 
 <div align="center">
 

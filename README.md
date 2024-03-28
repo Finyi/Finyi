@@ -1,19 +1,22 @@
-![Header](https://cdn.discordapp.com/attachments/902207809385533481/1219008254651138148/Finy_github_banner.png?ex=6609bce7&is=65f747e7&hm=80dd9a4eaa7a335f8c837db62afbb0a20b6d1f733cbaa39e5d48600ab052529a&)
+<h1 align="center">Hi, Im Finy! 👋</h1>
 
 <div align="center">
 
-## work/learning
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=js,html,css,ps,vscode">
+  </a>
+</p>
 
 ## OS
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=finyi&theme=onedark&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=issues&line_height=24&bg_color=0d1117" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finyi&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
+  </a>
+</p>
 
 </div>
 

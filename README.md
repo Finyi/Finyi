@@ -1,15 +1,12 @@
-<h1 align="center">Hi, Im Finy! 👋</h1>
+<h1 align="center">Hi, I'm Finy! 👋</h1>
 
 <div align="center">
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ps,vscode">
+    <img src="https://skillicons.dev/icons?i=js,html,css">
   </a>
 </p>
-
-## OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <p align="center">
   <a href="#">
